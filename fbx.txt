@@ -1,1 +1,4 @@
 [FBAN/Orca-Android;FBAV/226.0.0.73.68;FBBV/62118154;FBDM/{density=1.8,width=505,height=825};FBLC/en_US;FBCR/Telenor;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.orca;FBDV/SM-M315F;FBSV/8.1.2;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/Orca-Android;FBAV/226.0.0.73.68;FBBV/62118154;FBDM/{density=1.8,width=505,height=825};FBLC/en_US;FBCR/Grameenphone;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.orca;FBDV/SM-M315F;FBSV/8.1.2;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/Orca-Android;FBAV/226.0.0.73.68;FBBV/62118154;FBDM/{density=1.8,width=505,height=825};FBLC/en_US;FBCR/airtel;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.orca;FBDV/SM-M315F;FBSV/8.1.2;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/Orca-Android;FBAV/226.0.0.73.68;FBBV/62118154;FBDM/{density=1.8,width=505,height=825};FBLC/en_US;FBCR/XL Axiata;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.orca;FBDV/SM-M315F;FBSV/8.1.2;nullFBCA/armeabi-v7a:armeabi;]
