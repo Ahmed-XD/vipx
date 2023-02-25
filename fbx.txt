@@ -1,6 +1,1 @@
-[FBAN/FB4A;FBAV/233.0.0.16.158;FBBV/172917909;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/172917909;FBCR/Telenor;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.katana;FBDV/V2172;FBSV/5.0;FBOP/1;FBCA/x86:armeabi-v7a;]
-[FBAN/FB4A;FBAV/233.0.0.16.158;FBBV/172917909;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/172917909;FBCR/Telenor;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.orca;FBDV/V2172;FBSV/5.0;FBOP/1;FBCA/x86:armeabi-v7a;]
-[FBAN/FB4A;FBAV/233.0.0.16.158;FBBV/172917909;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/172917909;FBCR/Grameenphone;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.katana;FBDV/V2172;FBSV/5.0;FBOP/1;FBCA/x86:armeabi-v7a;]
-[FBAN/FB4A;FBAV/233.0.0.16.158;FBBV/172917909;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/172917909;FBCR/Grameenphone;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.orca;FBDV/V2172;FBSV/5.0;FBOP/1;FBCA/x86:armeabi-v7a;]
-[FBAN/FB4A;FBAV/233.0.0.16.158;FBBV/172917909;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/172917909;FBCR/airtel;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.katana;FBDV/V2172;FBSV/5.0;FBOP/1;FBCA/x86:armeabi-v7a;]
-[FBAN/FB4A;FBAV/233.0.0.16.158;FBBV/172917909;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/172917909;FBCR/airtel;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.orca;FBDV/V2172;FBSV/5.0;FBOP/1;FBCA/x86:armeabi-v7a;]
+[FBAN/Orca-Android;FBAV/226.0.0.73.68;FBBV/62118154;FBDM/{density=1.8,width=505,height=825};FBLC/en_US;FBCR/Telenor;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.orca;FBDV/SM-M315F;FBSV/8.1.2;nullFBCA/armeabi-v7a:armeabi;]
