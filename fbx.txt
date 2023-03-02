@@ -1,1 +1,9 @@
+[FBAN/FB4A;FBAV/61.0.0.15.69;FBBV/20748118;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_GB;FBCR/9mobile;FBMF/Symphony;FBBD/Symphony;FBPN/com.facebook.katana;FBDV/helio 30;FBSV/10;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/61.0.0.15.69;FBBV/20748118;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_GB;FBCR/9mobile;FBMF/Symphony;FBBD/Symphony;FBPN/com.facebook.orca;FBDV/helio 30;FBSV/10;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/61.0.0.15.69;FBBV/20748118;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_GB;FBCR/MTN Nigeria;FBMF/Symphony;FBBD/Symphony;FBPN/com.facebook.katana;FBDV/helio 30;FBSV/10;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/61.0.0.15.69;FBBV/20748118;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_GB;FBCR/MTN Nigeria;FBMF/Symphony;FBBD/Symphony;FBPN/com.facebook.orca;FBDV/helio 30;FBSV/10;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/61.0.0.15.69;FBBV/20748118;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBCR/9mobile;FBMF/Symphony;FBBD/Symphony;FBPN/com.facebook.katana;FBDV/helio 30;FBSV/10;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/61.0.0.15.69;FBBV/20748118;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBCR/9mobile;FBMF/Symphony;FBBD/Symphony;FBPN/com.facebook.orca;FBDV/helio 30;FBSV/10;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/61.0.0.15.69;FBBV/20748118;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBCR/MTN Nigeria;FBMF/Symphony;FBBD/Symphony;FBPN/com.facebook.katana;FBDV/helio 30;FBSV/10;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/61.0.0.15.69;FBBV/20748118;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBCR/MTN Nigeria;FBMF/Symphony;FBBD/Symphony;FBPN/com.facebook.orca;FBDV/helio 30;FBSV/10;nullFBCA/armeabi-v7a:armeabi;]
 
