@@ -1,8 +1,1 @@
-[FBAN/FB4A;FBAV/61.0.0.15.69;FBBV/20748118;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_GB;FBCR/3;FBMF/Xiaomi;FBBD/Redmi;FBPN/com.facebook.katana;FBDV/M2003J15SS;FBSV/10;nullFBCA/armeabi-v7a:armeabi;]
-[FBAN/FB4A;FBAV/61.0.0.15.69;FBBV/20748118;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_GB;FBCR/3;FBMF/Xiaomi;FBBD/Redmi;FBPN/com.facebook.orca;FBDV/M2003J15SS;FBSV/10;nullFBCA/armeabi-v7a:armeabi;]
-[FBAN/FB4A;FBAV/61.0.0.15.69;FBBV/20748118;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_GB;FBCR/Movistar;FBMF/Xiaomi;FBBD/Redmi;FBPN/com.facebook.katana;FBDV/M2003J15SS;FBSV/10;nullFBCA/armeabi-v7a:armeabi;]
-[FBAN/FB4A;FBAV/61.0.0.15.69;FBBV/20748118;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_GB;FBCR/Movistar;FBMF/Xiaomi;FBBD/Redmi;FBPN/com.facebook.orca;FBDV/M2003J15SS;FBSV/10;nullFBCA/armeabi-v7a:armeabi;]
-[FBAN/FB4A;FBAV/61.0.0.15.69;FBBV/20748118;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBCR/3;FBMF/Xiaomi;FBBD/Redmi;FBPN/com.facebook.katana;FBDV/M2003J15SS;FBSV/10;nullFBCA/armeabi-v7a:armeabi;]
-[FBAN/FB4A;FBAV/61.0.0.15.69;FBBV/20748118;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBCR/3;FBMF/Xiaomi;FBBD/Redmi;FBPN/com.facebook.orca;FBDV/M2003J15SS;FBSV/10;nullFBCA/armeabi-v7a:armeabi;]
-[FBAN/FB4A;FBAV/61.0.0.15.69;FBBV/20748118;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBCR/Movistar;FBMF/Xiaomi;FBBD/Redmi;FBPN/com.facebook.katana;FBDV/M2003J15SS;FBSV/10;nullFBCA/armeabi-v7a:armeabi;]
-[FBAN/FB4A;FBAV/61.0.0.15.69;FBBV/20748118;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBCR/Movistar;FBMF/Xiaomi;FBBD/Redmi;FBPN/com.facebook.orca;FBDV/M2003J15SS;FBSV/10;nullFBCA/armeabi-v7a:armeabi;]
+
