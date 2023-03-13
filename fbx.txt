@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/276.0.0.44.127;FBBV/225129387;FBDM/{density=2.75,width=1080,height=2030};FBLC/uk_UA;FBRV/227809097;FBCR/Vodafone UA;FBMF/Xiaomi;FBBD/xiaomi;FBPN/com.facebook.katana;FBDV/Redmi Note 5;FBSV/9;FBOP/1;FBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/304.0.0.39.118;FBBV/271127287;FBDM{density=2.75,width=1080,height=2131};FBLC/en_GB;FBRV/0;FBCR/O2-CZ;FBMF/Xiaomi;FBBD/xiaomi;FBPN/com.facebook.katana;FBDV/Redmi Note 7;FBSV/9;FBOP/1;FBCA/arm64-v8a:;]
